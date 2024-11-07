@@ -1,0 +1,78 @@
+{
+  "uploadVideos": [
+    {
+      "id": "b2e8",
+      "caption": "Alien: Covenant",
+      "imgUrl": "https://imgs.search.brave.com/x0LCl-bUZ_fZwOVYBUkPGSu8_xhYwLVzOSuNpsjAtaM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxYUROdDJZVEtM/LmpwZw",
+      "youtubeLink": "https://www.youtube.com/embed/H0VW6sg50Pk"
+    },
+    {
+      "id": "03ce",
+      "caption": "Vaazha",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNDEwZDMzMDUtMTU1Ny00YjU1LTg2ODctM2E4NTdjM2ExNTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "918d",
+      "categoryName": "Trailer",
+      "allVideos": []
+    },
+    {
+      "id": "36ce",
+      "categoryName": "Movies",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "0eca",
+      "caption": "Alien: Covenant",
+      "youtubeLink": "https://www.youtube.com/embed/H0VW6sg50Pk",
+      "timeSpan": "11/1/2024, GMT+5:30"
+    },
+    {
+      "id": "b8fc",
+      "caption": "Alien: Covenant",
+      "youtubeLink": "https://www.youtube.com/embed/H0VW6sg50Pk",
+      "timeSpan": "11/1/2024, GMT+5:30"
+    },
+    {
+      "id": "fb30",
+      "caption": "Alien: Covenant",
+      "youtubeLink": "https://www.youtube.com/embed/H0VW6sg50Pk",
+      "timeSpan": "11/5/2024, GMT+5:30"
+    },
+    {
+      "id": "83ce",
+      "caption": "Alien: Covenant",
+      "youtubeLink": "https://www.youtube.com/embed/H0VW6sg50Pk",
+      "timeSpan": "11/5/2024, GMT+5:30"
+    },
+    {
+      "id": "2a99",
+      "caption": "Vaazha",
+      "youtubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeSpan": "11/5/2024, GMT+5:30"
+    },
+    {
+      "id": "0795",
+      "caption": "Vaazha",
+      "youtubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeSpan": "11/5/2024, GMT+5:30"
+    },
+    {
+      "id": "6e60",
+      "caption": "Alien: Covenant",
+      "youtubeLink": "https://www.youtube.com/embed/H0VW6sg50Pk",
+      "timeSpan": "11/6/2024, GMT+5:30"
+    },
+    {
+      "id": "9752",
+      "caption": "Vaazha",
+      "youtubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeSpan": "11/6/2024, GMT+5:30"
+    }
+  ]
+}
